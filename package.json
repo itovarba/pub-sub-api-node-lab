@@ -1,6 +1,8 @@
 {
   "name": "pub-sub-api-node-lab",
   "version": "1.0.0",
+  "type": "module",
+  "author": "itovarba",
   "description": "pub/sub API lab",
   "main": "index.js",
   "scripts": {
@@ -10,7 +12,6 @@
     "type": "git",
     "url": "git+https://github.com/itovarba/pub-sub-api-node-lab.git"
   },
-  "author": "Iosu Tovar",
   "license": "ISC",
   "bugs": {
     "url": "https://github.com/itovarba/pub-sub-api-node-lab/issues"
