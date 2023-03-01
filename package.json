@@ -6,7 +6,7 @@
   "description": "pub/sub API lab",
   "main": "index.js",
   "scripts": {
-    "test": "echo \"Error: no test specified\" && exit 1"
+    "start":"node index.js"
   },
   "repository": {
     "type": "git",
@@ -18,6 +18,6 @@
   },
   "homepage": "https://github.com/itovarba/pub-sub-api-node-lab#readme",
   "dependencies": {
-    "salesforce-pubsub-api-client": "^2.4.0"
+    "salesforce-pubsub-api-client": "^2.4.1"
   }
 }
